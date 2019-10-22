@@ -66,7 +66,7 @@ class GameScene extends Phaser.Scene {
         })
 
 
-
+        console.log("Hello")
         checkpoint.anims.play('check')
 
     }
